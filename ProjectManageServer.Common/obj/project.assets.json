@@ -9454,11 +9454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj",
+      "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj",
       "projectName": "ProjectManageServer.Common",
-      "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj",
+      "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj",
       "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-      "outputPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Common\\obj\\",
+      "outputPath": "F:\\XHProjectServer\\ProjectManageServer.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

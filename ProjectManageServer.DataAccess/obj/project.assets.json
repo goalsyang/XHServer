@@ -9506,11 +9506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Services\\ProjectManageServer\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj",
+      "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj",
       "projectName": "ProjectManageServer.DataAccess",
-      "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj",
+      "projectPath": "F:\\XHProjectServer\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj",
       "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-      "outputPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.DataAccess\\obj\\",
+      "outputPath": "F:\\XHProjectServer\\ProjectManageServer.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9529,14 +9529,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "F:\\Services\\ProjectManageServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
-              "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj"
+            "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
+              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj"
             },
-            "F:\\Services\\ProjectManageServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj": {
-              "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj"
+            "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj": {
+              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj"
             },
-            "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
-              "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
+            "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
+              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
             }
           }
         }

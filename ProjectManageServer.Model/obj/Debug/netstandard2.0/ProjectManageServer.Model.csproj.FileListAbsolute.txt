@@ -22,3 +22,15 @@ F:\Services\ProjectManageServer\ProjectManageServer.Model\obj\Debug\netstandard2
 F:\Services\ProjectManageServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.csproj.CopyComplete
 F:\Services\ProjectManageServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.dll
 F:\Services\ProjectManageServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.pdb
+F:\XHProjectServer\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Model.deps.json
+F:\XHProjectServer\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Model.dll
+F:\XHProjectServer\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Model.pdb
+F:\XHProjectServer\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.dll
+F:\XHProjectServer\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.pdb
+F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.csprojAssemblyReference.cache
+F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.csproj.CoreCompileInputs.cache
+F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.AssemblyInfoInputs.cache
+F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.AssemblyInfo.cs
+F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.csproj.CopyComplete
+F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.dll
+F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.pdb

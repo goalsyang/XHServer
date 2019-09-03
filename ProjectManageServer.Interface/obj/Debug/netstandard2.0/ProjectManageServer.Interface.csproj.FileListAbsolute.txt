@@ -26,3 +26,17 @@ F:\Services\ProjectManageServer\ProjectManageServer.Interface\obj\Debug\netstand
 F:\Services\ProjectManageServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.csproj.CopyComplete
 F:\Services\ProjectManageServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.dll
 F:\Services\ProjectManageServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.pdb
+F:\XHProjectServer\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Interface.deps.json
+F:\XHProjectServer\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Interface.dll
+F:\XHProjectServer\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Interface.pdb
+F:\XHProjectServer\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.dll
+F:\XHProjectServer\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Model.dll
+F:\XHProjectServer\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Model.pdb
+F:\XHProjectServer\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.pdb
+F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.csprojAssemblyReference.cache
+F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.csproj.CoreCompileInputs.cache
+F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.AssemblyInfoInputs.cache
+F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.AssemblyInfo.cs
+F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.csproj.CopyComplete
+F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.dll
+F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.pdb

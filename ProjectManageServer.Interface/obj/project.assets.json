@@ -219,11 +219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj",
+      "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj",
       "projectName": "ProjectManageServer.Interface",
-      "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj",
+      "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj",
       "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-      "outputPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Interface\\obj\\",
+      "outputPath": "F:\\XHProjectServer\\ProjectManageServer.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -242,8 +242,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
-              "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
+            "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
+              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
             }
           }
         }

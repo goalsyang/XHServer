@@ -14005,11 +14005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Services\\ProjectManageServer\\ProjectManageServer\\ProjectManageServer.csproj",
+      "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer\\ProjectManageServer.csproj",
       "projectName": "ProjectManageServer",
-      "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer\\ProjectManageServer.csproj",
+      "projectPath": "F:\\XHProjectServer\\ProjectManageServer\\ProjectManageServer.csproj",
       "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-      "outputPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer\\obj\\",
+      "outputPath": "F:\\XHProjectServer\\ProjectManageServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14028,17 +14028,17 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\Services\\ProjectManageServer\\ProjectManageServer.Bussiness\\ProjectManageServer.Bussiness.csproj": {
-              "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Bussiness\\ProjectManageServer.Bussiness.csproj"
+            "F:\\XHProjectServer\\ProjectManageServer.Bussiness\\ProjectManageServer.Bussiness.csproj": {
+              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Bussiness\\ProjectManageServer.Bussiness.csproj"
             },
-            "F:\\Services\\ProjectManageServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj": {
-              "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj"
+            "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj": {
+              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj"
             },
-            "F:\\Services\\ProjectManageServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj": {
-              "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj"
+            "F:\\XHProjectServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj": {
+              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj"
             },
-            "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
-              "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
+            "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
+              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
             }
           }
         }
