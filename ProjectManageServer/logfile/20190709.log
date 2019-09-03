@@ -1,0 +1,50 @@
+2019-07-09 11:24:53,632 [31] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-09 11:25:06,756 [32] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-09 11:25:34,898 [33] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-09 11:25:50,764 [34] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-09 11:27:31,992 [39] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+

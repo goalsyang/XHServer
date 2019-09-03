@@ -1,0 +1,877 @@
+2019-08-27 09:49:23,873 [5] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 09:49:23,928 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 09:49:33,180 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 09:50:28,899 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：	参数名：b<->参数值：
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 09:54:36,885 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：	参数名：b<->参数值：
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 09:58:11,970 [24] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：	参数名：b<->参数值：
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:00:19,783 [23] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：	参数名：b<->参数值：
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:01:39,619 [29] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：	参数名：b<->参数值：
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:02:23,915 [31] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：	参数名：b<->参数值：
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:04:46,448 [35] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：	参数名：b<->参数值：
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:07:20,699 [39] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：	参数名：b<->参数值：
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:10:06,039 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 1 行, 第 15 列: 
+PLS-00103: 出现符号 "DECLARE"在需要下列之一时：
+ ( - + case mod new not
+   null <an identifier> <a double-quoted delimited-identifier>
+   <a bind variable> continue avg count current exists max min
+   prior sql stddev sum variance execute forall merge time
+   timestamp interval date
+   <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <一个带有字符集说明的可带引号的字符串文字>
+   <一个可带引号的 SQL 字符串> purge
+
+=========================================结束=====================================================
+
+2019-08-27 10:10:35,046 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 1 行, 第 15 列: 
+PLS-00103: 出现符号 "DECLARE"在需要下列之一时：
+ ( - + case mod new not
+   null <an identifier> <a double-quoted delimited-identifier>
+   <a bind variable> continue avg count current exists max min
+   prior sql stddev sum variance execute forall merge time
+   timestamp interval date
+   <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <一个带有字符集说明的可带引号的字符串文字>
+   <一个可带引号的 SQL 字符串> purge
+
+=========================================结束=====================================================
+
+2019-08-27 10:11:27,727 [17] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:11:57,849 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:13:59,361 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-01008: 并非所有变量都已绑定
+
+=========================================结束=====================================================
+
+2019-08-27 10:14:06,728 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 1 行, 第 15 列: 
+PLS-00103: 出现符号 "DECLARE"在需要下列之一时：
+ ( - + case mod new not
+   null <an identifier> <a double-quoted delimited-identifier>
+   <a bind variable> continue avg count current exists max min
+   prior sql stddev sum variance execute forall merge time
+   timestamp interval date
+   <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <一个带有字符集说明的可带引号的字符串文字>
+   <一个可带引号的 SQL 字符串> purge
+
+=========================================结束=====================================================
+
+2019-08-27 10:16:36,362 [17] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 1 行, 第 15 列: 
+PLS-00103: 出现符号 "DECLARE"在需要下列之一时：
+ ( - + case mod new not
+   null <an identifier> <a double-quoted delimited-identifier>
+   <a bind variable> continue avg count current exists max min
+   prior sql stddev sum variance execute forall merge time
+   timestamp interval date
+   <a string literal with character set specification>
+   <a number> <a single-quoted SQL string> pipe
+   <一个带有字符集说明的可带引号的字符串文字>
+   <一个可带引号的 SQL 字符串> purge
+
+=========================================结束=====================================================
+
+2019-08-27 10:24:46,170 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'GETSERIALNUM' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+
+=========================================结束=====================================================
+
+2019-08-27 10:24:54,714 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'GETSERIALNUM' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+
+=========================================结束=====================================================
+
+2019-08-27 10:25:28,728 [17] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 1 行, 第 7 列: 
+PLS-00306: 调用 'GETSERIALNUM' 时参数个数或类型错误
+ORA-06550: 第 1 行, 第 7 列: 
+PL/SQL: Statement ignored
+
+=========================================结束=====================================================
+
+2019-08-27 10:26:31,497 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 4 行, 第 53 列: 
+PLS-00103: 出现符号 ">"在需要下列之一时：
+ . ( * @ % & = - + < / > at in
+   is mod remainder not rem <an exponent (**)> <> or != or ~= >=
+   <= <> and or like like2 like4 likec as between || multiset
+   member submultiset
+
+=========================================结束=====================================================
+
+2019-08-27 10:30:26,746 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 4 行, 第 53 列: 
+PLS-00103: 出现符号 ">"在需要下列之一时：
+ . ( * @ % & = - + < / > at in
+   is mod remainder not rem <an exponent (**)> <> or != or ~= >=
+   <= <> and or like like2 like4 likec as between || multiset
+   member submultiset
+
+=========================================结束=====================================================
+
+2019-08-27 10:30:46,734 [22] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 4 行, 第 53 列: 
+PLS-00103: 出现符号 ">"在需要下列之一时：
+ . ( * @ % & = - + < / > at in
+   is mod remainder not rem <an exponent (**)> <> or != or ~= >=
+   <= <> and or like like2 like4 likec as between || multiset
+   member submultiset
+
+=========================================结束=====================================================
+
+2019-08-27 10:35:05,732 [26] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 4 行, 第 53 列: 
+PLS-00103: 出现符号 ">"在需要下列之一时：
+ . ( * @ % & = - + < / > at in
+   is mod remainder not rem <an exponent (**)> <> or != or ~= >=
+   <= <> and or like like2 like4 likec as between || multiset
+   member submultiset
+
+=========================================结束=====================================================
+
+2019-08-27 10:35:18,380 [27] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 4 行, 第 53 列: 
+PLS-00103: 出现符号 ">"在需要下列之一时：
+ . ( * @ % & = - + < / > at in
+   is mod remainder not rem <an exponent (**)> <> or != or ~= >=
+   <= <> and or like like2 like4 likec as between || multiset
+   member submultiset
+
+=========================================结束=====================================================
+
+2019-08-27 10:35:30,122 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：DECLARE a NUMBER;b number;
+                                        BEGIN
+                                            GetSerialNum(:water,:type,:a,:b); 
+                                        END;  
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:ORA-06550: 第 4 行, 第 53 列: 
+PLS-00103: 出现符号 ">"在需要下列之一时：
+ . ( * @ % & = - + < / > at in
+   is mod remainder not rem <an exponent (**)> <> or != or ~= >=
+   <= <> and or like like2 like4 likec as between || multiset
+   member submultiset
+
+=========================================结束=====================================================
+
+2019-08-27 10:37:43,339 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:Unsupported column datatype
+
+=========================================结束=====================================================
+
+2019-08-27 10:39:16,530 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:Unsupported column datatype
+
+=========================================结束=====================================================
+
+2019-08-27 11:09:41,758 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:09:41,771 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:09:41,776 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:09:41,860 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:09:51,020 [16] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;Password=123456;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:Specified argument was out of the range of valid values.
+
+=========================================结束=====================================================
+
+2019-08-27 11:10:55,860 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;Password=123456;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:Specified argument was out of the range of valid values.
+
+=========================================结束=====================================================
+
+2019-08-27 11:14:06,134 [21] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：执行结果:失败:OracleCommand.CommandText is invalid
+
+=========================================结束=====================================================
+
+2019-08-27 11:18:21,817 [8] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:18:21,828 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:18:56,634 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:19:02,127 [6] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:19:03,534 [17] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;Password=123456;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:Specified argument was out of the range of valid values.
+
+=========================================结束=====================================================
+
+2019-08-27 11:19:30,047 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：insert into FLC_OBJECT(id,obj_code,is_enable) values (:id,:obj_code,:is_enable)
+参数:	参数名：id<->参数值：1343	参数名：obj_code<->参数值：TTECHNICS	参数名：is_enable<->参数值：是
+执行结果:失败:ORA-01722: 无效数字
+
+=========================================结束=====================================================
+
+2019-08-27 11:24:16,298 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:24:16,310 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:24:18,158 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:24:20,518 [6] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:25:23,006 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;Password=123456;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:Specified argument was out of the range of valid values.
+
+=========================================结束=====================================================
+
+2019-08-27 11:25:27,761 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：insert into FLC_OBJECT(id,obj_code,is_enable) values (:id,:obj_code,:is_enable)
+参数:	参数名：id<->参数值：0	参数名：obj_code<->参数值：TTECHNICS	参数名：is_enable<->参数值：是
+执行结果:失败:ORA-01722: 无效数字
+
+=========================================结束=====================================================
+
+2019-08-27 11:27:32,357 [4] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:27:32,843 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:27:32,342 [5] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:27:35,210 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:27:37,952 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;Password=123456;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:Specified argument was out of the range of valid values.
+
+=========================================结束=====================================================
+
+2019-08-27 11:27:40,931 [16] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：insert into FLC_OBJECT(id,obj_code,is_enable) values (:id,:obj_code,:is_enable)
+参数:	参数名：id<->参数值：0	参数名：obj_code<->参数值：TTECHNICS	参数名：is_enable<->参数值：是
+执行结果:失败:ORA-01722: 无效数字
+
+=========================================结束=====================================================
+
+2019-08-27 11:39:04,895 [7] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:39:04,906 [4] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:39:06,610 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:39:07,766 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:39:40,983 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;Password=123456;
+查询语句：GetSerialNum
+参数:	参数名：water<->参数值：FLC_OBJECT	参数名：type<->参数值：1	参数名：a<->参数值：0	参数名：b<->参数值：0
+执行结果:失败:Specified argument was out of the range of valid values.
+
+=========================================结束=====================================================
+
+2019-08-27 11:39:45,979 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：insert into FLC_OBJECT(id,obj_code,is_enable) values (:id,:obj_code,:is_enable)
+参数:	参数名：id<->参数值：0	参数名：obj_code<->参数值：TTECHNICS	参数名：is_enable<->参数值：是
+执行结果:失败:ORA-01722: 无效数字
+
+=========================================结束=====================================================
+
+2019-08-27 11:45:00,454 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:45:03,976 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:45:08,338 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:47:20,983 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:49:21,729 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:55:03,360 [11] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:55:03,375 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:55:03,379 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 11:55:43,489 [16] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 12:07:41,475 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_LANG where key=:key
+参数:	参数名：key<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 12:07:41,488 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：涂饰标准工艺单	参数名：en_US<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 12:07:44,430 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Insert into FLC_LANG(key,value,lan) values (:key,:zn_CN,:en_US)
+参数:	参数名：key<->参数值：TTECHNICS	参数名：zn_CN<->参数值：TTECHNICS	参数名：en_US<->参数值：En_US
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 12:08:51,348 [17] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 12:09:00,936 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select count(*) from FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 12:09:59,878 [22] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select count(*) from FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 12:10:10,612 [23] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：delete FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-27 12:10:24,927 [24] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select count(*) from FLC_OBJECT where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+

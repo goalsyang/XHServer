@@ -1,0 +1,230 @@
+2019-08-16 10:10:08,541 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 10:35:31,992 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 10:35:58,039 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 10:38:13,095 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 10:38:59,459 [20] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 10:39:17,379 [22] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 10:45:22,406 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 10:45:39,199 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 10:47:20,554 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 10:47:49,142 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 10:48:12,594 [20] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 10:48:27,170 [22] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-08-16 14:27:35,421 [23] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Selecat usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00900: 无效 SQL 语句
+
+=========================================结束=====================================================
+
+2019-08-16 14:28:25,220 [28] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Selecat usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00900: 无效 SQL 语句
+
+=========================================结束=====================================================
+
+2019-08-16 14:32:15,242 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Selecat usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00900: 无效 SQL 语句
+
+=========================================结束=====================================================
+
+2019-08-16 14:50:06,314 [6] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Update DATA_UA_USER set password = :newPwd where CUSER_ID = :userCode
+参数:	参数名：newPwd<->参数值：123	参数名：userCode<->参数值：admaain
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 14:51:56,205 [5] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Update DATA_UA_USER set password = :newPwd where CUSER_ID = :userCode
+参数:	参数名：newPwd<->参数值：123	参数名：userCode<->参数值：admaain
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 15:06:05,324 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Update DATA_UA_USER set password = :newPwd where CUSER_ID = :userCode
+参数:	参数名：newPwd<->参数值：123	参数名：userCode<->参数值：admaain
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 15:08:58,179 [23] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Update DATA_UA_USER set password = :newPwd where CUSER_ID = :userCode
+参数:	参数名：newPwd<->参数值：123	参数名：userCode<->参数值：admaain
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 15:09:54,289 [25] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Update DATA_UA_USER set password = :newPwd where CUSER_ID = :userCode
+参数:	参数名：newPwd<->参数值：123	参数名：userCode<->参数值：王义
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 15:10:40,173 [22] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Update DATA_UA_USER set password = :newPwd where CUSER_ID = :userCode
+参数:	参数名：newPwd<->参数值：123	参数名：userCode<->参数值：王义
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 15:10:50,437 [30] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Update DATA_UA_USER set password = :newPwd where CUSER_ID = :userCode
+参数:	参数名：newPwd<->参数值：123	参数名：userCode<->参数值：0221
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-16 15:11:39,048 [32] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Update DATA_UA_USER set password = :newPwd where CUSER_ID = :userCode
+参数:	参数名：newPwd<->参数值：4qHkBFgQ5Tfp2G9HVFIfvQ==	参数名：userCode<->参数值：0221
+执行结果:成功
+
+=========================================结束=====================================================
+

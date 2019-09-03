@@ -1,0 +1,9 @@
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\bin\Release\netstandard2.0\ProjectManageServer.Attributes.deps.json
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\bin\Release\netstandard2.0\ProjectManageServer.Attributes.dll
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\bin\Release\netstandard2.0\ProjectManageServer.Attributes.pdb
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\obj\Release\netstandard2.0\ProjectManageServer.Attributes.csprojAssemblyReference.cache
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\obj\Release\netstandard2.0\ProjectManageServer.Attributes.csproj.CoreCompileInputs.cache
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\obj\Release\netstandard2.0\ProjectManageServer.Attributes.AssemblyInfoInputs.cache
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\obj\Release\netstandard2.0\ProjectManageServer.Attributes.AssemblyInfo.cs
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\obj\Release\netstandard2.0\ProjectManageServer.Attributes.dll
+F:\Services\ProjectManageServer\ProjectManageServer.Attributes\obj\Release\netstandard2.0\ProjectManageServer.Attributes.pdb

@@ -1,0 +1,270 @@
+2019-07-09 11:24:53,632 [31] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-09 11:25:06,756 [32] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-09 11:25:34,898 [33] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-09 11:25:50,764 [34] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-09 11:27:31,992 [39] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-10 10:08:57,071 [20] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130/orcl;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-10 10:09:16,813 [24] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130/orcl;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-10 10:09:48,302 [26] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130/orcl;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-10 10:11:32,518 [30] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:server=192.168.108.130/orcl;user id=cp2;password=123456
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Unable to connect to any of the specified MySQL hosts.
+
+=========================================结束=====================================================
+
+2019-07-10 11:02:28,665 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-07-10 11:03:12,263 [16] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-07-10 11:10:25,648 [21] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-07-10 11:15:24,861 [26] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 11:18:21,466 [30] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 11:21:12,980 [33] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 11:21:42,337 [37] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-07-10 11:22:08,045 [38] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-07-10 11:23:19,861 [36] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-07-10 11:23:41,871 [42] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-07-10 11:24:58,117 [44] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=@UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:ORA-00936: 缺失表达式
+
+=========================================结束=====================================================
+
+2019-07-10 11:25:46,600 [48] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 12:00:25,857 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 14:24:36,172 [9] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 14:25:51,178 [6] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 15:06:39,353 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 15:07:02,641 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-07-10 15:07:44,352 [21] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+

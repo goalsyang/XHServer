@@ -1,0 +1,12 @@
+F:\Services\ProjectManageServer\ProjectManageServer.Common\bin\Release\netstandard2.0\ProjectManageServer.Common.deps.json
+F:\Services\ProjectManageServer\ProjectManageServer.Common\bin\Release\netstandard2.0\ProjectManageServer.Common.dll
+F:\Services\ProjectManageServer\ProjectManageServer.Common\bin\Release\netstandard2.0\ProjectManageServer.Common.pdb
+F:\Services\ProjectManageServer\ProjectManageServer.Common\bin\Release\netstandard2.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Services\ProjectManageServer\ProjectManageServer.Common\bin\Release\netstandard2.0\Microsoft.AspNetCore.Authentication.JwtBearer.xml
+F:\Services\ProjectManageServer\ProjectManageServer.Common\obj\Release\netstandard2.0\ProjectManageServer.Common.csprojAssemblyReference.cache
+F:\Services\ProjectManageServer\ProjectManageServer.Common\obj\Release\netstandard2.0\ProjectManageServer.Common.csproj.CoreCompileInputs.cache
+F:\Services\ProjectManageServer\ProjectManageServer.Common\obj\Release\netstandard2.0\ProjectManageServer.Common.AssemblyInfoInputs.cache
+F:\Services\ProjectManageServer\ProjectManageServer.Common\obj\Release\netstandard2.0\ProjectManageServer.Common.AssemblyInfo.cs
+F:\Services\ProjectManageServer\ProjectManageServer.Common\obj\Release\netstandard2.0\ProjectManageServer.Common.csproj.CopyComplete
+F:\Services\ProjectManageServer\ProjectManageServer.Common\obj\Release\netstandard2.0\ProjectManageServer.Common.dll
+F:\Services\ProjectManageServer\ProjectManageServer.Common\obj\Release\netstandard2.0\ProjectManageServer.Common.pdb

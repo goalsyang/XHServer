@@ -1,0 +1,6 @@
+E:\Freedom\ProjectManageServer\ProjectManageServer.Utils\bin\Debug\netstandard2.0\ProjectManageServer.Utils.deps.json
+E:\Freedom\ProjectManageServer\ProjectManageServer.Utils\bin\Debug\netstandard2.0\ProjectManageServer.Utils.dll
+E:\Freedom\ProjectManageServer\ProjectManageServer.Utils\obj\Debug\netstandard2.0\ProjectManageServer.Utils.csprojAssemblyReference.cache
+E:\Freedom\ProjectManageServer\ProjectManageServer.Utils\obj\Debug\netstandard2.0\ProjectManageServer.Utils.csproj.CoreCompileInputs.cache
+E:\Freedom\ProjectManageServer\ProjectManageServer.Utils\obj\Debug\netstandard2.0\ProjectManageServer.Utils.AssemblyInfoInputs.cache
+E:\Freedom\ProjectManageServer\ProjectManageServer.Utils\obj\Debug\netstandard2.0\ProjectManageServer.Utils.AssemblyInfo.cs

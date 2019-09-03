@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {}
+  },
+  "projects": {
+    "F:\\Services\\ProjectManageServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj",
+        "projectName": "ProjectManageServer.Attributes",
+        "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj",
+        "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
+        "outputPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Attributes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\非常Nice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj",
+        "projectName": "ProjectManageServer.Model",
+        "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj",
+        "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
+        "outputPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\非常Nice\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "F:\\Services\\ProjectManageServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
+                "projectPath": "F:\\Services\\ProjectManageServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

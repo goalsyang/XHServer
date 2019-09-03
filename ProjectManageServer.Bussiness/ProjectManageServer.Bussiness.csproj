@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProjectManageServer.Common\ProjectManageServer.Common.csproj" />
+    <ProjectReference Include="..\ProjectManageServer.DataAccess\ProjectManageServer.DataAccess.csproj" />
+    <ProjectReference Include="..\ProjectManageServer.Interface\ProjectManageServer.Interface.csproj" />
+    <ProjectReference Include="..\ProjectManageServer.Model\ProjectManageServer.Model.csproj" />
+  </ItemGroup>
+
+</Project>

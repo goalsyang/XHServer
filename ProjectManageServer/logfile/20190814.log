@@ -1,0 +1,210 @@
+2019-08-14 15:06:04,855 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：5
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 15:06:33,939 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 15:09:36,734 [22] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 15:10:12,167 [25] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 15:29:51,951 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 15:33:55,933 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 16:56:52,996 [20] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 16:57:01,972 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 17:17:17,950 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 17:22:44,415 [16] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 17:42:45,634 [32] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 17:44:00,450 [37] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 17:51:27,179 [49] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 17:51:41,225 [52] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 17:59:58,833 [63] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 18:00:17,853 [66] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 18:15:32,592 [77] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 18:16:07,883 [80] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 18:16:36,759 [82] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 18:41:54,335 [65] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-14 18:42:25,295 [61] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;
+查询语句：Select usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：admin
+执行结果:成功
+
+=========================================结束=====================================================
+

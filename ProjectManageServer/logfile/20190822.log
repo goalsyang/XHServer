@@ -1,0 +1,992 @@
+2019-08-22 14:33:43,733 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select is_enable from flc_object where obj_code=''执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:33:43,848 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:33:43,929 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:35:33,481 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select is_enable from flc_object where obj_code=''执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:35:35,638 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:35:38,558 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:35:39,320 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECTS where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:35:43,066 [16] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECT_PROPERTY where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:35:45,745 [17] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select obj_code,value from flc_object t left join flc_lang e on 
+                                           t.obj_code=e.key and e.lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:35:45,761 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select obj_table from flc_objects where obj_code=''执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:36:59,251 [23] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select is_enable from flc_object where obj_code=''执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:36:59,264 [24] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:36:59,274 [25] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:36:59,283 [26] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECTS where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:36:59,327 [27] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECT_PROPERTY where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:36:59,345 [28] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select obj_code,value from flc_object t left join flc_lang e on 
+                                           t.obj_code=e.key and e.lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:36:59,365 [29] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select obj_table from flc_objects where obj_code=''执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:28,930 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select is_enable from flc_object where obj_code=''执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:28,974 [31] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:29,056 [32] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:29,065 [33] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECTS where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:29,070 [34] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECT_PROPERTY where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:29,098 [35] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select obj_code,value from flc_object t left join flc_lang e on 
+                                           t.obj_code=e.key and e.lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:29,107 [36] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select obj_table from flc_objects where obj_code=''执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:41,618 [37] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select is_enable from flc_object where obj_code='TTECHNICS'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:41,672 [38] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:41,727 [39] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:41,839 [40] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECTS where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:41,893 [41] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:41,949 [42] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,092 [43] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,105 [44] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,272 [45] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECT_PROPERTY where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,296 [46] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.TTECHNICS_CODE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,314 [47] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.TTECHNICS_CODE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,323 [48] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.GB_CODE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,447 [49] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.GB_CODE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,563 [50] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.IRATE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,591 [51] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.IRATE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,721 [52] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.ADDON' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,750 [53] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.ADDON' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,833 [54] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CREATE_USER' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,877 [55] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CREATE_USER' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,930 [56] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MODIFY_USER' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:42,990 [57] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MODIFY_USER' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,140 [58] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CREATE_TIME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,163 [59] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CREATE_TIME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,189 [60] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MODIFY_TIME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,208 [61] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MODIFY_TIME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,289 [62] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERIFY_TIME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,403 [63] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERIFY_TIME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,440 [64] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERIFY_USER' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,606 [65] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERIFY_USER' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,616 [66] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.STATUS' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,651 [67] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.STATUS' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,710 [68] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CUSTID' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,756 [69] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CUSTID' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,772 [70] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.DDATE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,849 [71] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.DDATE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,859 [72] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.TTECHNICS_TEXT' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,869 [73] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.TTECHNICS_TEXT' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,936 [74] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.ITIME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:43,979 [75] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.ITIME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,048 [76] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.GB_INDEX' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,058 [77] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.GB_INDEX' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,100 [78] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERSION' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,105 [79] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERSION' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,170 [80] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.MEMO' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,223 [81] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.MEMO' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,352 [82] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.OP' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,394 [83] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.OP' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,483 [84] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.INV_CODE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,488 [85] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.INV_CODE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,677 [86] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.RATESUM' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,689 [87] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.RATESUM' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,870 [88] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.RATE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:44,939 [89] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.RATE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:45,111 [90] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.COLOR' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:45,187 [91] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.COLOR' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:45,369 [92] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.STYLE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:45,392 [93] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.STYLE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,073 [94] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.GX_CODE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,083 [95] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.GX_CODE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,232 [96] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.BABLE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,243 [97] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.BABLE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,421 [98] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.DISENABLETIME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,474 [99] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.DISENABLETIME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,554 [100] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.TTECHNICS_NAME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,565 [101] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.TTECHNICS_NAME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,667 [102] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MIX_INV_CODE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,681 [103] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MIX_INV_CODE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,775 [104] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select obj_code,value from flc_object t left join flc_lang e on 
+                                           t.obj_code=e.key and e.lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:37:46,792 [105] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select obj_table from flc_objects where obj_code='TTECHNICS'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,428 [115] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select is_enable from flc_object where obj_code='TTECHNICS'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,466 [116] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,475 [117] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,505 [118] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECTS where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,511 [119] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,518 [120] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,546 [122] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,555 [123] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,615 [124] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：Select * from FLC_OBJECT_PROPERTY where obj_code = :obj_code
+参数:	参数名：obj_code<->参数值：TTECHNICS
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,683 [125] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.TTECHNICS_CODE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,699 [126] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.TTECHNICS_CODE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,716 [127] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.GB_CODE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:20,750 [128] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS_ITEM0.GB_CODE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,005 [129] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.IRATE' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,038 [130] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.IRATE' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,062 [131] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.ADDON' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,080 [132] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.ADDON' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,124 [133] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CREATE_USER' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,159 [134] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CREATE_USER' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,221 [135] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MODIFY_USER' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,261 [136] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MODIFY_USER' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,319 [137] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CREATE_TIME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,351 [138] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.CREATE_TIME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,464 [139] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MODIFY_TIME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,479 [140] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.MODIFY_TIME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,551 [141] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERIFY_TIME' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,565 [142] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERIFY_TIME' and lan='en_US'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-22 14:46:21,630 [143] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select value from flc_lang where key='TTECHNICS.DATA_TTECHNICS.VERIFY_USER' and lan='zn_CN'执行结果:成功
+
+=========================================结束=====================================================
+

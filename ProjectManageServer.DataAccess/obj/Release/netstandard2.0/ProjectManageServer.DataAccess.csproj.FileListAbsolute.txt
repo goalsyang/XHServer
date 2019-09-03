@@ -1,0 +1,16 @@
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.DataAccess.deps.json
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.DataAccess.dll
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.DataAccess.pdb
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.Attributes.dll
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.Common.dll
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.Model.dll
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.Attributes.pdb
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.Common.pdb
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\bin\Release\netstandard2.0\ProjectManageServer.Model.pdb
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\obj\Release\netstandard2.0\ProjectManageServer.DataAccess.csprojAssemblyReference.cache
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\obj\Release\netstandard2.0\ProjectManageServer.DataAccess.csproj.CoreCompileInputs.cache
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\obj\Release\netstandard2.0\ProjectManageServer.DataAccess.AssemblyInfoInputs.cache
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\obj\Release\netstandard2.0\ProjectManageServer.DataAccess.AssemblyInfo.cs
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\obj\Release\netstandard2.0\ProjectManageServer.DataAccess.csproj.CopyComplete
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\obj\Release\netstandard2.0\ProjectManageServer.DataAccess.dll
+F:\Services\ProjectManageServer\ProjectManageServer.DataAccess\obj\Release\netstandard2.0\ProjectManageServer.DataAccess.pdb

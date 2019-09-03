@@ -1,0 +1,40 @@
+2019-09-02 15:19:24,459 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select OBJ_PRO_TYPE,OBJ_PRO_LENGTH from flc_object_property t where obj_code='BOM_BOM' and obj_table='DATA_BOM_BOM' and obj_pro_USING=1执行结果:成功
+
+=========================================结束=====================================================
+
+2019-09-02 15:20:41,435 [17] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select OBJ_PRO_TYPE,OBJ_PRO_LENGTH from flc_object_property t where obj_code='BOM_BOM' and obj_table='DATA_BOM_BOM' and obj_pro_USING=1执行结果:成功
+
+=========================================结束=====================================================
+
+2019-09-02 15:34:46,217 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select OBJ_PRO_LENGTH from flc_object_property t where obj_code='BOM_BOM' and obj_table='DATA_BOM_BOM' and obj_pro_USING=1执行结果:成功
+
+=========================================结束=====================================================
+
+2019-09-02 15:34:52,902 [18] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select OBJ_PRO_LENGTH from flc_object_property t where obj_code='BOM_BOM' and obj_table='DATA_BOM_BOM' and obj_pro_USING=1执行结果:成功
+
+=========================================结束=====================================================
+
+2019-09-02 15:38:35,353 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select OBJ_PRO_LENGTH,OBJ_PRO_TYPE from flc_object_property t where obj_code='BOM_BOM' and obj_table='DATA_BOM_BOM' and obj_pro_USING=1执行结果:成功
+
+=========================================结束=====================================================
+

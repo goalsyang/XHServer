@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Unity" Version="5.10.3" />
+    <PackageReference Include="Unity.Configuration" Version="5.10.0" />
+  </ItemGroup>
+
+</Project>

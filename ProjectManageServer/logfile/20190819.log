@@ -1,0 +1,525 @@
+2019-08-19 11:03:13,014 [7] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code=''执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:03:28,232 [11] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：	参数名：lan<->参数值：
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:03:43,290 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select id,name from data_company 执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:04:31,472 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code=''执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:05:17,301 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：	参数名：lan<->参数值：
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:05:55,249 [19] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select id,name from data_company 执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:06:23,072 [22] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:06:44,453 [24] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：admin	参数名：lan<->参数值：zn_CN
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:07:00,194 [23] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select id,name from data_company 执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:07:08,356 [29] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:08:44,109 [27] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:09:03,309 [32] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:09:17,505 [31] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：admin	参数名：lan<->参数值：zn_CN
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:09:18,366 [28] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：0184	参数名：lan<->参数值：zn_CN
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:09:32,926 [38] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select id,name from data_company 执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:09:48,532 [36] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select id,name from data_company 执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:09:54,695 [37] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:11:20,223 [39] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:12:02,154 [44] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:12:13,204 [46] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select *from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:失败：Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:12:27,113 [47] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：0184	参数名：lan<->参数值：zn_CN
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:12:29,148 [45] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：admin	参数名：lan<->参数值：zn_CN
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:12:51,920 [51] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select id,name from data_company 执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:12:51,959 [50] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select id,name from data_company 执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:24:16,846 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 11:24:32,523 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:26:04,895 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Selecat usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:26:54,127 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Selecat usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:28:51,365 [21] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 11:33:22,109 [11] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 11:33:37,863 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:33:57,520 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 11:34:12,628 [11] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='admin'执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:34:44,530 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Selecat usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:35:36,480 [17] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Selecat usercode,password,username From flc_user Where UserCode=:UserCode
+参数:	参数名：UserCode<->参数值：li
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:42:23,872 [31] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 11:50:53,980 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 11:51:09,606 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:51:48,555 [6] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：0184	参数名：lan<->参数值：zn_CN
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:53:04,933 [16] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：Select * from V_FLC_MENU where lan = :lan 
+                                       and menucode in (select menu_id from FLC_MENU_AUTH where role_code 
+                                       in (select role_code from DATA_ROLE_USER where user_code = :user_code))  and is_show=1 and is_admin in (0)
+                                       order by disp_order
+参数:	参数名：user_code<->参数值：0184	参数名：lan<->参数值：zn_CN
+执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 11:53:20,019 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select id,name from data_company 执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 12:29:57,182 [22] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 12:30:12,271 [20] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.130/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 12:46:27,177 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 12:46:45,416 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;
+查询语句：select * from V_FLC_MENU where lan = :lan  and is_show=1 and is_sys <> 1 and is_admin in (0,1) order by disp_order
+参数:	参数名：user_code<->参数值：0184	参数名：lan<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 12:47:10,729 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;
+查询语句：select id,name from data_company 执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 12:54:39,582 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 12:54:41,295 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;
+查询语句：select * from V_FLC_MENU where lan = :lan  and is_show=1 and is_sys <> 1 and is_admin in (0,1) order by disp_order
+参数:	参数名：user_code<->参数值：0184	参数名：lan<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 12:54:41,331 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;
+查询语句：select id,name from data_company 执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 15:04:30,704 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 15:04:46,392 [10] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:失败:Connection request timed out
+
+=========================================结束=====================================================
+
+2019-08-19 15:05:23,582 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.135/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 15:08:59,290 [11] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 15:09:00,431 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select * from V_FLC_MENU where lan = :lan  and is_show=1 and is_sys <> 1 and is_admin in (0,1) order by disp_order
+参数:	参数名：user_code<->参数值：0184	参数名：lan<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 15:09:00,444 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select id,name from data_company where rownum=1执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 18:01:51,892 [12] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;Password=123456;
+查询语句：select count(1) from data_role_user where role_code in('admins_group' ,'DATA-MANAGER')  and user_code='0184'执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 18:01:53,464 [14] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select * from V_FLC_MENU where lan = :lan  and is_show=1 and is_sys <> 1 and is_admin in (0,1) order by disp_order
+参数:	参数名：user_code<->参数值：0184	参数名：lan<->参数值：zn_CN
+执行结果:成功
+
+=========================================结束=====================================================
+
+2019-08-19 18:01:53,478 [15] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：select id,name from data_company where rownum=1执行结果:成功
+
+=========================================结束=====================================================
+
