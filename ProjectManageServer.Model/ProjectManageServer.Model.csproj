@@ -8,8 +8,4 @@
     <ProjectReference Include="..\ProjectManageServer.Attributes\ProjectManageServer.Attributes.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Authorization\" />
-  </ItemGroup>
-
 </Project>
