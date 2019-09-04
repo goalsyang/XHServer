@@ -23,5 +23,7 @@ namespace ProjectManageServer.Model.Authorization
 
         public string IMAGE { get; set; }
 
+        public string Value { get; set; }
+
     }
 }

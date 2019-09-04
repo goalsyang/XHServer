@@ -28,4 +28,30 @@ namespace ProjectManageServer.Model.Authorization
 
     }
 
+    public class SaveOperationAuthToRole
+    {
+        public string role_code { get; set; }
+
+        public List<FLC_OPEERATION_AUTH>  fLC_OPEERATION_AUTHs { get; set; }
+
+    }
+
+    public class GetOperationAuthByUser
+    {
+        
+        public IEnumerable<dynamic> objects { get; set; }
+
+        public IEnumerable<FLC_OBJ_OPERATION> operation { get; set; }
+    }
+
+
+    public class GetOperationAuthByRole
+    {
+
+        public IEnumerable<FLC_OBJ_OPERATION> operation { get; set; }
+
+        public IEnumerable<FLC_OBJECT> objects { get; set; }
+
+    }
+
 }
