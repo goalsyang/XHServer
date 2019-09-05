@@ -1,0 +1,27 @@
+2019-09-05 15:35:07,440 [8] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：    select *from flc_objects   objs
+                                    left join flc_lang lan on lan.key = objs.obj_code || '.' || objs.obj_table执行结果:成功
+
+=========================================结束=====================================================
+
+2019-09-05 15:35:21,143 [4] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：    select *from flc_objects   objs
+                                    left join flc_lang lan on lan.key = objs.obj_code || '.' || objs.obj_table执行结果:成功
+
+=========================================结束=====================================================
+
+2019-09-05 15:50:59,117 [13] INFO  ProjectManageServer.Common.AppLog [(null)] - 
+=========================================开始=====================================================
+
+数据库:Data Source=192.168.108.134/orcl;User Id=cp2;
+查询语句：    select *from flc_objects   objs
+                                    left join flc_lang lan on lan.key = objs.obj_code || '.' || objs.obj_table执行结果:成功
+
+=========================================结束=====================================================
+

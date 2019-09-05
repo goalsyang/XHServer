@@ -27,10 +27,10 @@ F:\XHProjectServer\ProjectManageServer.Common\bin\Debug\netstandard2.0\ProjectMa
 F:\XHProjectServer\ProjectManageServer.Common\bin\Debug\netstandard2.0\ProjectManageServer.Common.pdb
 F:\XHProjectServer\ProjectManageServer.Common\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 F:\XHProjectServer\ProjectManageServer.Common\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authentication.JwtBearer.xml
-F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.csprojAssemblyReference.cache
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.csproj.CoreCompileInputs.cache
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.AssemblyInfoInputs.cache
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.AssemblyInfo.cs
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.csproj.CopyComplete
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.dll
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.pdb
+F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.csprojAssemblyReference.cache
