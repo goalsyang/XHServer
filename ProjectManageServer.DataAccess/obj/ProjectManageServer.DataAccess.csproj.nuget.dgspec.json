@@ -1,30 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "F:\\XHProjectServer\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj": {}
+    "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj": {}
   },
   "projects": {
-    "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
+    "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj",
+        "projectUniqueName": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj",
         "projectName": "ProjectManageServer.Attributes",
-        "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj",
-        "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-        "outputPath": "F:\\XHProjectServer\\ProjectManageServer.Attributes\\obj\\",
+        "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj",
+        "packagesPath": "C:\\Users\\gxc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Attributes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\非常Nice\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\gxc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,27 +54,25 @@
         }
       }
     },
-    "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj": {
+    "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj",
+        "projectUniqueName": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj",
         "projectName": "ProjectManageServer.Common",
-        "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj",
-        "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-        "outputPath": "F:\\XHProjectServer\\ProjectManageServer.Common\\obj\\",
+        "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj",
+        "packagesPath": "C:\\Users\\gxc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\非常Nice\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\gxc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -136,40 +132,38 @@
         }
       }
     },
-    "F:\\XHProjectServer\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj": {
+    "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj",
         "projectName": "ProjectManageServer.DataAccess",
-        "projectPath": "F:\\XHProjectServer\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-        "outputPath": "F:\\XHProjectServer\\ProjectManageServer.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.DataAccess\\ProjectManageServer.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\gxc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\非常Nice\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\gxc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
-                "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj"
+              "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
+                "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj"
               },
-              "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj": {
-                "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj"
+              "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj": {
+                "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Common\\ProjectManageServer.Common.csproj"
               },
-              "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
-                "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
+              "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
+                "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
               }
             }
           }
@@ -198,34 +192,32 @@
         }
       }
     },
-    "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
+    "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj",
+        "projectUniqueName": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj",
         "projectName": "ProjectManageServer.Model",
-        "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj",
-        "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-        "outputPath": "F:\\XHProjectServer\\ProjectManageServer.Model\\obj\\",
+        "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj",
+        "packagesPath": "C:\\Users\\gxc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\非常Nice\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\gxc\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
-                "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj"
+              "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj": {
+                "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Attributes\\ProjectManageServer.Attributes.csproj"
               }
             }
           }
