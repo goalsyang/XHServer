@@ -213,37 +213,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\非常Nice\\.nuget\\packages\\": {},
+    "C:\\Users\\gxc\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\XHProjectServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj",
+      "projectUniqueName": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj",
       "projectName": "ProjectManageServer.Interface",
-      "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj",
-      "packagesPath": "C:\\Users\\非常Nice\\.nuget\\packages\\",
-      "outputPath": "F:\\XHProjectServer\\ProjectManageServer.Interface\\obj\\",
+      "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Interface\\ProjectManageServer.Interface.csproj",
+      "packagesPath": "C:\\Users\\gxc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\非常Nice\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gxc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
-              "projectPath": "F:\\XHProjectServer\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
+            "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj": {
+              "projectPath": "C:\\Users\\gxc\\Desktop\\VS\\XHServers\\ProjectManageServer.Model\\ProjectManageServer.Model.csproj"
             }
           }
         }

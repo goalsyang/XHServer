@@ -24,3 +24,12 @@ F:\XHProjectServer\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\Proje
 F:\XHProjectServer\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.AssemblyInfo.cs
 F:\XHProjectServer\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.dll
 F:\XHProjectServer\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.deps.json
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.csprojAssemblyReference.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.csproj.CoreCompileInputs.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.AssemblyInfoInputs.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.AssemblyInfo.cs
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Attributes\obj\Debug\netstandard2.0\ProjectManageServer.Attributes.pdb

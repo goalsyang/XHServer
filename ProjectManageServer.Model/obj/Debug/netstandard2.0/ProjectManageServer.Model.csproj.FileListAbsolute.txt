@@ -34,3 +34,15 @@ F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectMan
 F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.csproj.CopyComplete
 F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.dll
 F:\XHProjectServer\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Model.deps.json
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Model.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Model.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.csprojAssemblyReference.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.csproj.CoreCompileInputs.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.AssemblyInfoInputs.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.AssemblyInfo.cs
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.csproj.CopyComplete
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Model\obj\Debug\netstandard2.0\ProjectManageServer.Model.pdb

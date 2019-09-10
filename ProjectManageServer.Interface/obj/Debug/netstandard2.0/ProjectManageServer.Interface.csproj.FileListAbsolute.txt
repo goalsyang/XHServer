@@ -40,3 +40,17 @@ F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\Projec
 F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.csproj.CopyComplete
 F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.dll
 F:\XHProjectServer\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Interface.deps.json
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Interface.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Interface.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Model.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Model.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\bin\Debug\netstandard2.0\ProjectManageServer.Attributes.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.csprojAssemblyReference.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.csproj.CoreCompileInputs.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.AssemblyInfoInputs.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.AssemblyInfo.cs
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.csproj.CopyComplete
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Interface\obj\Debug\netstandard2.0\ProjectManageServer.Interface.pdb

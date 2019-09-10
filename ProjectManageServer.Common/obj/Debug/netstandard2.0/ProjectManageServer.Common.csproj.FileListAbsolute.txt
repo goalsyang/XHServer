@@ -34,3 +34,15 @@ F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectMa
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.dll
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.pdb
 F:\XHProjectServer\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.csprojAssemblyReference.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\bin\Debug\netstandard2.0\ProjectManageServer.Common.deps.json
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\bin\Debug\netstandard2.0\ProjectManageServer.Common.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\bin\Debug\netstandard2.0\ProjectManageServer.Common.pdb
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Authentication.JwtBearer.xml
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.csprojAssemblyReference.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.csproj.CoreCompileInputs.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.AssemblyInfoInputs.cache
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.AssemblyInfo.cs
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.csproj.CopyComplete
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.dll
+C:\Users\gxc\Desktop\VS\XHServers\ProjectManageServer.Common\obj\Debug\netstandard2.0\ProjectManageServer.Common.pdb
